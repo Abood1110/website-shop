@@ -1,0 +1,31 @@
+.footer{
+    
+    
+    background-color: rgb(187 209 206 / 80%);
+    border-radius: 20px 20px 0 0;
+    display: flow-root;
+    left: 0;
+    bottom: 0vh;
+    width: 100%;
+    text-align: center;
+     
+}
+.cont1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    list-style: none;
+}
+.cont1 a{
+    text-decoration: none;
+    margin: 20px;
+    color: black;
+}
+.cont1 a:hover{
+    color: #005d68;
+    background-color: white;
+    border-radius:10px;
+    margin: 16px;
+    padding: 4px 4px;
+}
